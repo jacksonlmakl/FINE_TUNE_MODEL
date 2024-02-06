@@ -60,14 +60,3 @@ This will start the server on `http://localhost:5000/` by default.
 - **Body:** `{"model_id": "<your_model_id>", "text": "<prompt_text>"}`
 - **Description:** Sends a prompt to the specified custom fine-tuned GPT model and returns its output.
 
-## Contributing
-
-Contributions to the project are welcome. Please ensure to follow the project's coding standards and submit your pull requests for review.
-
-## License
-
-Specify your project's license here, providing details on how others can use and contribute to your project.
-
-## Contact
-
-For any queries or further assistance with the API, please reach out to [Your Contact Information].
