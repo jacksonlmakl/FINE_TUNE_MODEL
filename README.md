@@ -1,4 +1,3 @@
-```markdown
 # Custom GPT Model Fine-Tuning API
 
 This Flask API enables the creation of training data, fine-tuning of GPT models, and utilization of these fine-tuned models. It's designed to streamline the process of training and deploying custom GPT models, specifically tailored to your data and use case requirements.
@@ -72,6 +71,3 @@ Specify your project's license here, providing details on how others can use and
 ## Contact
 
 For any queries or further assistance with the API, please reach out to [Your Contact Information].
-```
-
-This README provides a concise overview of your API, including how to install, run, and make requests to your service. Be sure to replace placeholder texts like `[Your Contact Information]` with actual data relevant to your project.
