@@ -1,5 +1,3 @@
-Here's a README markdown template for your Flask API that handles training data creation, model fine-tuning, and model usage. You can adjust the details as necessary to fit the specifics of your project:
-
 ```markdown
 # Custom GPT Model Fine-Tuning API
 
